@@ -107,7 +107,7 @@ header:
 
 - Quintero Sandrea, C. A.; Frediani, A. (2023, diciembre). __El paisaje sonoro: comunicación y temporalidad del espacio urbano__. VII Congreso ISUF-H "Forma urbana para el buen vivir: miradas interdisciplinarias". Santiago de Chile, Chile.
 
-- Delpino-Chamy, M. (2023, noviembre). __VISUALIZING CITIZENS'S PERCEPTIONS. Subjective indicators for the assessment of urban environments based on digitals platforms__. ICSC-CITIES 2023 VI Ibero-American Congress of Smart Cities. Mexico City and Cuernavaca, Mexico. 
+- Delpino-Chamy, M. (2023, noviembre). __VISUALIZING CITIZENS'S PERCEPTIONS. Subjective indicators for the assessment of urban environments based on digitals platforms__. ICSC-CITIES 2023 VI Ibero-American Congress of Smart Cities. Mexico City and Cuernavaca, Mexico. [Libro de actas](https://icsc-cities.com/proceedings/2023.pdf).
 
 - Delpino-Chamy, M.; Herrera, Y.; Pérez-Albert, Y. (2023, noviembre). __Plataforma participativa digital para la evaluación comunitaria y técnica de servicios ecosistémicos culturales__. 4th International ESP Latin America and Caribbean Conference. La Serena, Chile.
 
