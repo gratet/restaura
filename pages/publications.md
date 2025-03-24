@@ -34,9 +34,9 @@ header:
 
 
 ## Artículos
-- Camacho Lorenzo, S., Pérez Albert, Y., & Alberich González, J. (2025). __Environmental Quality and Poverty in Montevideo: A Spatial Approach to Exploring Environmental Injustices.__ *Social Sciences, 14(3), 150.* https://doi.org/10.3390/socsci14030150
+- Camacho Lorenzo, S., Pérez Albert, Y., & Alberich González, J. (2025). __Environmental Quality and Poverty in Montevideo: A Spatial Approach to Exploring Environmental Injustices.__ *Social Sciences, 14(3), 150.* [https://doi.org/10.3390/socsci14030150](https://www.mdpi.com/2076-0760/14/3/150)
 
-- Gheitasi, M., Serrano Giné, D., & Pérez Albert, Y. (2025). __Evaluating the Impact of Oil Refinery on Landscape Values Perception and Mental Health: A Case Study of Tehran.__ *Land, 14(1), 64*. https://doi.org/10.3390/land14010064
+- Gheitasi, M., Serrano Giné, D., & Pérez Albert, Y. (2025). __Evaluating the Impact of Oil Refinery on Landscape Values Perception and Mental Health: A Case Study of Tehran.__ *Land, 14(1), 64*. [https://doi.org/10.3390/land14010064](https://www.mdpi.com/2073-445X/14/1/64)
 
 - Quintero- Sandrea, Carolina (2026). __Servicios ecosistémicos culturales en zonas urbanas periféricas al Complejo Petroquímico El Tablazo, Venezuela.__ *Estoa, Nº 29. Vol.15* (enero-junio 2026) con ISSN:1390-7263 en versión impresa y e-ISSN:1390-9274 versión digital. 
 
@@ -85,7 +85,7 @@ header:
 
 - Bustamante Picón, E.; Cuesta Martínez, M. R.; Raventós Torner, R. D.; Alberich González, J.; Pérez-Albert, Y. (octubre, 2024). __Distribución y prescripción de activos de salud para personas mayores en Tarragona (España)__. XVIII Colóqio Ibérico de Geografía _Desafios societais: A perspetiva da geografia_. Universidade de Coimbra, Coimbra, Portugal, pp. 144 - 145. [Libro de resúmenes](https://cig2024.weebly.com/uploads/1/4/8/6/148606510/livro_de_resumos_cig_2024_3.pdf).
 
-- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, octubre). __Calidad de los parques urbanos según sus dimensiones. Un caso aplicado a la ciudad de Tarragona (España)__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España.
+- Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, octubre). __Calidad de los parques urbanos según sus dimensiones. Un caso aplicado a la ciudad de Tarragona (España)__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. [Libro de actas](https://www.isufhvalencia2024.upv.es/libro-de-actas/).
   
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, junio). __Propuesta de una clasificación de parques urbanos siguiendo criterios de dimensión y de disponibilidad de activos de salud para el bienestar de las personas__. En _La ciudad "veinte-treinta". Miradas a los espacios urbanos del siglo XXI_. Actas del XVII Coloquio de Geografía Urbana y I Coloquio Internacional de Geografía Urbana. Valladolid - Burgos, España, p. 965 - 974. [Libro de actas](https://doi.org/10.21138/GUA.2024.lc).
 
@@ -95,11 +95,11 @@ header:
 
 - Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, octubre). __Evaluación del impacto de los clústeres petroquímicos en la percepción de los valores paisajísticos y la salud mental. Un estudio de caso (Tarragona, España)__. XVIII Colóqio Ibérico de Geografía _Desafios societais: A perspetiva da geografia_. Universidade de Coimbra, Coimbra, Portugal, pp. 154 - 155. [Libro de resúmenes](https://cig2024.weebly.com/uploads/1/4/8/6/148606510/livro_de_resumos_cig_2024_3.pdf).
 
-- Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, octubre). __Aplicación de un Sistema de Información Geográfica de PArticipación Pública para determinar la percepción del riesgo y la salud autopercibida de la población. Caso de estudio de Tarragona (España)__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. 
+- Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, octubre). __Aplicación de un Sistema de Información Geográfica de PArticipación Pública para determinar la percepción del riesgo y la salud autopercibida de la población. Caso de estudio de Tarragona (España)__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. [Libro de actas](https://www.isufhvalencia2024.upv.es/libro-de-actas/).
   
 - Gheitasi, M.; Pérez-Albert, Y.; Serrano Giné, D. (2024, enero). __Assessing Technological Risk and Landscape Perception in Tehran Oil Refinery: A PPGIS Study__. 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13555).
 
-- Quintero Sandrea, C. (2024, octubre). __El paisaje sonoro de parques urbanos contiguos a complejos petroquímicos__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. 
+- Quintero Sandrea, C. (2024, octubre). __El paisaje sonoro de parques urbanos contiguos a complejos petroquímicos__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. [Libro de actas](https://www.isufhvalencia2024.upv.es/libro-de-actas/).
 
 - Quintero Sandrea, C.; Pérez-Albert, Y.; Camacho, M.; Frediani, A. (2024, enero). __The soundscape in cultural ecosystem services in urban areas surrounding petrochemical complexes__. Póster presentado en el 2nd Conference on Future Challenges in Sustainable Urban Planning & Territorial Management. Cartagena, España. [Comunicacion.pdf](http://hdl.handle.net/10317/13548), [Poster.pdf](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ESoxnoFKmeRLq0YVDOUtiOEBx4KZrgUTnXlTvial3H3Zpw?e=rfmIA5).
 
