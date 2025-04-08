@@ -163,6 +163,21 @@ header:
 - Informe final del proyecto __Avaluació dels actius de salut per a la gent gran de la infraestructura verda de la ciutat de Tarragona («ACTIVA ‘ TGN»)__. Cofinanciado por la Diputació de Tarragona y la Universitat Rovira i Virgili (2022_30) y con la participació de miembros del Proyecto RESTAURA. (2023, febrero). Ver informe [aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/ESAxtCSL9spMn1XoP3SMl-IBF8Ln8_fEVIqCc2iSocZtTQ?e=EgniA7).
 
 
+## SEMINARIO FINAL DE PROYECTO
+__SEMINARIO INTERNACIONAL: PARTICIPACIÓN PÚBLICA Y CIUDADES SALUDABLES__
+Ver programa [aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EepvOPq9IYdLl3HA3bJoFcABmwvz_jELVWahcWK68Fdr2A?e=4CPQ39)
+- Bustamante-Picón, Edgar. __Parques urbanos y activos de salud: conectando salud y bienestar en entornos urbanos.__ Universitat Rovira i Virgili.
+- Quinero Sandrea, Carolina. __El paisaje sonoro y los servicios ecosistémicos culturales en la planificación urbana.__ Universitat Rovira i Virgili.
+- Dra. Higueras García, Ester. __Planifiquemos barrios saludables__. Universidad Politécnica de Madrid.
+- Camacho Lorenzo, Soledad. __Aportes desde la justicia ambiental a la salud y el bienestar urbano.__ Universitat Rovira i Virgili.
+- Dr. Àvila Callau, Aitor. __Evaluación de la idoneidad de los senderos en función de los niveles de actividad física y las motivaciones de los excursionistas.__ Centre de Ciència i Tecnologia Forestal de Catalunya.
+- Gheitasi, Mahdi. __Applying PPGIS in Technological Risk Perception.__ Universitat Rovira i Virgili.
+- Dra. Bartomeu Magaña, Elena. __Restaura Scenarios . Health assets and Design Fiction Solutions in the Peri-urban Area of Tarragona.__ Universitat Oberta de Catalunya.
+- Behfar, Fatemeh. __Perception of Urban Park.__ Universitat Rovira i Virgili.
+- Dra. Montserrat Delpino-Chamy. __SIGPP y percepción de la ciudad.__ Universidad Técnica Federico Santamaría.
+- Dra. Carolin Klonner. __Analogue and Digital Participatory Mapping for Disaster Risk Reduction and Communicative Urban Planning.__ University of Turku.
+
+
 ## Divulgación
 
 - Bustamante-Picón, Edgar (2025, 7 de abril). __Georreferenciação e Saúde Pública: Identificando e Aproveitando os Ativos de Saúde nas Comunidades.__ Charla ofrecida en el _Congresso Saúde Pública: Políticas, Prácticas e Perspetivas para os novos Desafios Globais_ como profesor invitado. Organizado por la Escola Superior de Enfermagem de Lisboa (ESEL). Ver programa [aquí](https://www.esel.pt/sites/default/files/Congresso%20Sa%C3%BAde%20P%C3%BAblica%20Pol%C3%ADticas%2C%20Pr%C3%A1ticas%20e%20Perspetivas%20para%20os%20novos%20Desafios%20Globais%20(4).pdf).
