@@ -165,6 +165,9 @@ header:
 
 ## Divulgación
 
+- Bustamante-Picón, Edgar (2025, 7 de abril). __Georreferenciação e Saúde Pública: Identificando e Aproveitando os Ativos de Saúde nas Comunidades.__ Charla ofrecida en el _Congresso Saúde Pública: Políticas, Prácticas e Perspetivas para os novos Desafios Globais_ como profesor invitado. Organizado por la Escola Superior de Enfermagem de Lisboa (ESEL). Ver programa [aquí](https://www.esel.pt/sites/default/files/Congresso%20Sa%C3%BAde%20P%C3%BAblica%20Pol%C3%ADticas%2C%20Pr%C3%A1ticas%20e%20Perspetivas%20para%20os%20novos%20Desafios%20Globais%20(4).pdf).
+
+- Quintero Sandrea, Carlina (2025, 27 de marzo). __Comunicación y temporalidad del espacio urbano a través del paisaje sonoro.__ Charla presentada en el _Foro: CIUDAD FUTURA. Donde la naturaleza y la tecnología convergen._ Organizado por LABtinoamérica. Recupera la charla [aquí](https://www.youtube.com/watch?v=tXDq4bQCtJ8).
 - Recull de premsa en relació a la millora dels espais de salut de Tarragona (2024, 28 de maig). [Recupera els reculls de premsa aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_project_epp_urv_cat/EUILerAP3-NCub76TDW0BgABiOaK4175qpFKMcPyUwkgBw?e=ud2GFM).
 - El projecte Restaura recupera els espais més degradats de Tarragona (2024, 28 de maig). _Telenotícies TV3_. Recupera la notícia [aquí](https://www.ccma.cat/3cat/el-projecte-restaura-recupera-els-espais-mes-degradats-de-tarragona/video/6284640/).
 - Un projecte de la URV crida a la participació ciutadana per millorar els espais de salut de Tarragona (2024, 27 de maig). _Diari digital URV_. Recupera la notícia [aquí](https://diaridigital.urv.cat/projecte-participacio-ciutadana-millorar-espais-salut/).
