@@ -132,7 +132,7 @@ En términos generales el concepto de justicia ambiental y su contracara la inju
     <h4>Carolina Quintero Sandrea</h4>
 </center>
 <center>
-<img src="{{ member.pic  | prepend: "/images/team/soledad.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
+<img src="{{ member.pic  | prepend: "/images/team/CarolinaQuintero.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
 </center>
     
 ___"El paisaje sonoro en los servicios ecosistémicos culturales en áreas urbanas aledañas a zonas petroquímicas. Casos de estudio: Venezuela (El Tablazo) y España (Tarragona)".___
