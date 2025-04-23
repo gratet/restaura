@@ -126,7 +126,28 @@ Directores: Dra. Yolanda Pérez Albert, Dr. Joan Alberich González
 Estado: en elaboración
 ~~~   
 
-En términos generales el concepto de justicia ambiental y su contracara la injusticia ambiental, hace referencia al acceso a los recursos y a la distribución de la contaminación (Pérez-Rincón, 2018), la exclusión social, la desigualdad económica y la discriminación racial, son las principales causas de las situaciones de injusticia ambiental (Prieto-Flores et al., 2017). Es un concepto con un componente geográfico clave, pudiendo investigarse los patrones espaciales y sociales de los efectos del ambiente (Prieto-Flores et al., 2017). La presencia de actividades industriales, y en concreto de complejos petroquímicos, representan elementos que pueden contribuir a la degradación del ambiente y tener efectos sobre la justicia ambiental. En este sentido, tanto la ciudad de Tarragona (España) con uno de los complejos petroquímicos más grandes del sur de Europa (Complejo Petroquímico de Tarragona), como la ciudad de Montevideo (Uruguay), con la única refinería de petróleo del país, ubicada en la bahía de la ciudad, constituyen elementos significativos a la hora de evaluar la situación de estas ciudades en términos de justicia ambiental. En tal sentido, __esta investigación se propone desarrollar herramientas de base territorial que permitan medir y analizar la (in)justicia ambiental en estos entornos urbanos__.  Para ello, se aplica una metodología predominantemente cuantitativa, a través del __uso de Sistemas de Información Geográfica y la aplicación de técnicas estadísticas y de análisis espacial, con el fin de obtener un índice de justicia ambiental__.    
+En términos generales el concepto de justicia ambiental y su contracara la injusticia ambiental, hace referencia al acceso a los recursos y a la distribución de la contaminación (Pérez-Rincón, 2018), la exclusión social, la desigualdad económica y la discriminación racial, son las principales causas de las situaciones de injusticia ambiental (Prieto-Flores et al., 2017). Es un concepto con un componente geográfico clave, pudiendo investigarse los patrones espaciales y sociales de los efectos del ambiente (Prieto-Flores et al., 2017). La presencia de actividades industriales, y en concreto de complejos petroquímicos, representan elementos que pueden contribuir a la degradación del ambiente y tener efectos sobre la justicia ambiental. En este sentido, tanto la ciudad de Tarragona (España) con uno de los complejos petroquímicos más grandes del sur de Europa (Complejo Petroquímico de Tarragona), como la ciudad de Montevideo (Uruguay), con la única refinería de petróleo del país, ubicada en la bahía de la ciudad, constituyen elementos significativos a la hora de evaluar la situación de estas ciudades en términos de justicia ambiental. En tal sentido, __esta investigación se propone desarrollar herramientas de base territorial que permitan medir y analizar la (in)justicia ambiental en estos entornos urbanos__.  Para ello, se aplica una metodología predominantemente cuantitativa, a través del __uso de Sistemas de Información Geográfica y la aplicación de técnicas estadísticas y de análisis espacial, con el fin de obtener un índice de justicia ambiental__.
+
+<center>
+    <h4>Carolina Quintero Sandrea</h4>
+</center>
+<center>
+<img src="{{ member.pic  | prepend: "/images/team/soledad.jpg" | prepend: "https://gratet.github.io/restaura"  }}" style="padding:5px; border-radius: 80%;">
+</center>
+    
+___"El paisaje sonoro en los servicios ecosistémicos culturales en áreas urbanas aledañas a zonas petroquímicas. Casos de estudio: Venezuela (El Tablazo) y España (Tarragona)".___
+
+~~~
+Directores: Dr. Arturo Frediani Sarfati, Dr. Sergi Saladié Gil
+Estado: en elaboración
+~~~   
+
+Ante los cambios ambientales del mundo actual, el diseño urbano demanda concebir la ciudad como un sistema ecológico complejo, en el que se reconozca el valor de los __servicios ecosistémicos culturales (SEC)__ y se integren las __experiencias sensoriales__, particularmente la escucha, como vía para enriquecer la comprensión del entorno. En este marco, el fenómeno urbano requiere enfoques innovadores que logren equilibrar el bienestar humano con la __calidad ambiental__, incorporando no solo aspectos visuales y funcionales del espacio, sino también su dimensión sonora.
+En este contexto, la presencia de industrias petroquímicas en zonas urbanas y periurbanas introduce una dinámica particular en el paisaje sonoro, generando fuentes acústicas constantes o intermitentes que alteran la percepción del entorno, y afectar el bienestar emocional y la calidad de vida de los habitantes.
+__Este estudio propone integrar la multisensorialidad del espacio en los procesos de planificación y diseño urbano, mediante el análisis del paisaje sonoro como componente clave del entorno.__ El paisaje sonoro, según el concepto desarrollado por Murray Schafer (1969), está compuesto por los sonidos que estructuran la identidad de un lugar, reflejan su dinámica social y evocan memorias colectivas. Así, __el sonido no solo informa sobre el estado del ambiente, sino que también contribuye al sentido de pertenencia, a la apreciación estética y al bienestar emocional de las personas.__
+La investigación plantea los siguientes objetivos:
+Analizar el paisaje sonoro de los servicios ecosistémicos culturales en áreas urbanas cercanas a complejos petroquímicos, con el objetivo de proponer buenas prácticas que mitiguen el impacto sonoro de la industria para mejorar el bienestar de la población en El Tablazo (Venezuela) y Tarragona (España). Este análisis se basa en parámetros psicoacústicos y valoraciones cualitativas.
+Analizar el papel de los servicios ecosistémicos culturales y del paisaje sonoro dentro del contexto de la planificación y el diseño urbano, con el propósito de identificar buenas prácticas.
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
