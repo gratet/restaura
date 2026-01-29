@@ -380,3 +380,22 @@
     - title: linkedin
       url: https://es.linkedin.com/in/mgperis
       class: icon-linkedin
+
+      - name: Sra. Fatemeh 
+  lastname: Behfar
+  position: Investigadora Predoctoral
+  organization: Universitat Rovira i Virgili
+  department: Dpto. de Geografía
+  pic: 
+  keywords:
+    - justicia ambiental
+    - parque urbano
+    - arquitectura
+  email: 
+    - title: E-mail
+      url: fatemeh.behfar@estudiants.urv.cat
+      class: icon-mail
+  social:
+    - title: 
+      url: 
+      class:
