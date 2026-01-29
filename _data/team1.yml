@@ -386,7 +386,7 @@
   position: Investigadora Predoctoral
   organization: Universitat Rovira i Virgili
   department: Dpto. de Geografía
-  pic: 
+  pic: user_placeholder.png
   keywords:
     - justicia ambiental
     - parque urbano
@@ -396,6 +396,6 @@
       url: fatemeh.behfar@estudiants.urv.cat
       class: icon-mail
   social:
-    - title: 
-      url: 
-      class:
+    - title: home
+      url: https://www.researchgate.net/profile/Fatemeh-Behfar
+      class: icon-home
