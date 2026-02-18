@@ -34,6 +34,10 @@ header:
 
 
 ## Artículos
+- Quintero-Sandrea, C. (2026). __Cultural Ecosystem Services in urban areas peripheral to the Petrochemical Complex El Tablazo-Venezuela. Estoa__. *Journal of the Faculty of Architecture and Urbanism*, 15(29), 148–164. [https://doi.org/10.18537/est.v015.n029.a10](https://doi.org/10.18537/est.v015.n029.a10).
+
+- Delpino-Chamy, M.; Pérez Albert, Y. (2026). __Spatializing urban perception: Subjective indicators for participatory GIS__. *Cities*, 172. [https://doi.org/10.1016/j.cities.2026.106809](https://doi.org/10.1016/j.cities.2026.106809).
+
 - Quintero- Sandrea, Carolina (2026). __Servicios ecosistémicos culturales en zonas urbanas periféricas al Complejo Petroquímico El Tablazo, Venezuela.__ *Estoa, Nº 29. Vol.15* (enero-junio 2026) con ISSN:1390-7263 en versión impresa y e-ISSN:1390-9274 versión digital.
 
 - Ávila Callau, A.; Pérez-Albert, Y.; Farías-Torbidoni, E. I.; Mas-Alòs, S.; Alberich González, J.; Gonzále Peris, M. (2025). __Enhancing outdoor recreational experience: A methodology for assessing peri-urban greenway suitability based on hiker physical activity levels and motivations.__ *Journal of Outdoor Recreation and Tourism, 50, 100893*. [https://doi.org/10.1016/j.jort.2025.100893](https://doi.org/10.1016/j.jort.2025.100893).
@@ -70,10 +74,6 @@ header:
   
 - Serrano Giné, D.; Pérez Albert, M.Y.; Palacio Buendía, A.V. (2021). __Aesthetic assessment of the landscape using psychophysical and psychological models: Comparative analysis in a protected natural area__. *Landscape and Urban Planning*, 2014, 104197, p. 1-9. [https://doi.org/10.1016/j.landurbplan.2021.104197](https://doi.org/10.1016/j.landurbplan.2021.104197).
 
-- Quintero-Sandrea, C. (2026). __Cultural Ecosystem Services in urban areas peripheral to the Petrochemical Complex El Tablazo-Venezuela. Estoa__. *Journal of the Faculty of Architecture and Urbanism*, 15(29), 148–164. [https://doi.org/10.18537/est.v015.n029.a10](https://doi.org/10.18537/est.v015.n029.a10).
-
-- Delpino-Chamy, M.; Pérez Albert, Y. (2026). __Spatializing urban perception: Subjective indicators for participatory GIS__. *Cities*, 172. [https://doi.org/10.1016/j.cities.2026.106809](https://doi.org/10.1016/j.cities.2026.106809).
-  
 
 ## Repositorios con bases de datos generadas en el proyecto
 
@@ -157,6 +157,8 @@ header:
 - Ávila Callau, A. (2022). __El análisis de los Servicios Ecosistémicos Culturales a partir de Información Geográfica Voluntaria. El caso del periurbano de Tarragona__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga. Consula la tesis [aquí](http://hdl.handle.net/10803/675456).
 
 - Delpino Chamy, M. (2024). __SISTEMATIZAR Y ESPACIALIZAR LA PERCEPCIÓN URBANA. Indicadores subjetivos para estudiar espacios públicos y abiertos mediante sistemas de información geográfica de participación pública__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga. Consula la tesis [aquí](http://hdl.handle.net/10803/692688).
+
+- Gheitasi, M. (2025). __Landscape, Risk, and Health Perceptions in Petrochemical Industrial Clusters: A PPGIS Approach in Tehran and Camp de Tarragona__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga.
 
 
 ## Trabajos académicos
