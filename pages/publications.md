@@ -71,6 +71,8 @@ header:
 - Serrano Giné, D.; Pérez Albert, M.Y.; Palacio Buendía, A.V. (2021). __Aesthetic assessment of the landscape using psychophysical and psychological models: Comparative analysis in a protected natural area__. *Landscape and Urban Planning*, 2014, 104197, p. 1-9. [https://doi.org/10.1016/j.landurbplan.2021.104197](https://doi.org/10.1016/j.landurbplan.2021.104197).
 
 - Quintero-Sandrea, C. (2026). __Cultural Ecosystem Services in urban areas peripheral to the Petrochemical Complex El Tablazo-Venezuela. Estoa__. *Journal of the Faculty of Architecture and Urbanism*, 15(29), 148–164. [https://doi.org/10.18537/est.v015.n029.a10](https://doi.org/10.18537/est.v015.n029.a10).
+
+- Delpino-Chamy, M.; Pérez Albert, Y. (2026). __Spatializing urban perception: Subjective indicators for participatory GIS__. *Cities*, 172. [https://doi.org/10.1016/j.cities.2026.106809](https://doi.org/10.1016/j.cities.2026.106809).
   
 
 ## Repositorios con bases de datos generadas en el proyecto
