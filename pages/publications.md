@@ -154,11 +154,13 @@ header:
 
 ## Tesis
 
-- Ávila Callau, A. (2022). __El análisis de los Servicios Ecosistémicos Culturales a partir de Información Geográfica Voluntaria. El caso del periurbano de Tarragona__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga. Consula la tesis [aquí](http://hdl.handle.net/10803/675456).
-
-- Delpino Chamy, M. (2024). __SISTEMATIZAR Y ESPACIALIZAR LA PERCEPCIÓN URBANA. Indicadores subjetivos para estudiar espacios públicos y abiertos mediante sistemas de información geográfica de participación pública__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga. Consula la tesis [aquí](http://hdl.handle.net/10803/692688).
+- Camacho Lorenzo, S. (2026). __Medición y análisis de la justicia ambiental en ecosistemas urbanos de iberoamérica. aplicación a los casos de estudio de montevideo (uruguay) y tarragona (españa)__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga.
 
 - Gheitasi, M. (2025). __Landscape, Risk, and Health Perceptions in Petrochemical Industrial Clusters: A PPGIS Approach in Tehran and Camp de Tarragona__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga.
+
+- Delpino Chamy, M. (2024). __SISTEMATIZAR Y ESPACIALIZAR LA PERCEPCIÓN URBANA. Indicadores subjetivos para estudiar espacios públicos y abiertos mediante sistemas de información geográfica de participación pública__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga. Consula la tesis [aquí](http://hdl.handle.net/10803/692688).
+  
+- Ávila Callau, A. (2022). __El análisis de los Servicios Ecosistémicos Culturales a partir de Información Geográfica Voluntaria. El caso del periurbano de Tarragona__. Tesis defendida en el marco del Programa de Doctorado interuniversitario en Ciudad, Territorio y Planificación Sostenible, Universitat Rovira i Virgili, Universidad de Granada y Universidad de Málaga. Consula la tesis [aquí](http://hdl.handle.net/10803/675456).
 
 
 ## Trabajos académicos
