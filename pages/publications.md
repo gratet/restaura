@@ -34,6 +34,9 @@ header:
 
 
 ## Artículos
+
+- Gheitasi, M., Pérez Albert, Y., & Serrano Giné, D. (2026). __RESTAURA project: Using public participation GIS to explore technological risk, landscape, and health perceptions in Camp de Tarragona__. *MethodsX*, 16, 103904. [https://doi.org/10.1016/j.mex.2026.103904](https://doi.org/10.1016/j.mex.2026.103904).
+
 - Behfar, F., Miralles-Jori, R., & Pérez-Albert, Y. (2026). __Public Satisfaction and Social Interaction in Urban Parks: A Questionnaire-Based Study in Asaluyeh, Iran__. *World*, 7(3), 38. [https://doi.org/10.3390/world7030038](https://doi.org/10.3390/world7030038).
 - 
 - Quintero-Sandrea, C. (2026). __Cultural Ecosystem Services in urban areas peripheral to the Petrochemical Complex El Tablazo-Venezuela. Estoa__. *Journal of the Faculty of Architecture and Urbanism*, 15(29), 148–164. [https://doi.org/10.18537/est.v015.n029.a10](https://doi.org/10.18537/est.v015.n029.a10).
