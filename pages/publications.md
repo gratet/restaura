@@ -35,6 +35,8 @@ header:
 
 ## Artículos
 
+- Magaña, E. B., Oliva, R., Huertas, S., de Solà-Morales, P., Ventura, O., Steegman, D., & Pérez-Albert, M. Y. (2026). __Graphic landscapes of care: Speculative design for healthier public spaces in Tarragona__. *grafica*, 01-13. [https://doi.org/10.5565/rev/grafica.450](https://doi.org/10.5565/rev/grafica.450).
+
 - Gheitasi, M., Pérez Albert, Y., & Serrano Giné, D. (2026). __RESTAURA project: Using public participation GIS to explore technological risk, landscape, and health perceptions in Camp de Tarragona__. *MethodsX*, 16, 103904. [https://doi.org/10.1016/j.mex.2026.103904](https://doi.org/10.1016/j.mex.2026.103904).
 
 - Behfar, F., Miralles-Jori, R., & Pérez-Albert, Y. (2026). __Public Satisfaction and Social Interaction in Urban Parks: A Questionnaire-Based Study in Asaluyeh, Iran__. *World*, 7(3), 38. [https://doi.org/10.3390/world7030038](https://doi.org/10.3390/world7030038).
