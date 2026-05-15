@@ -96,6 +96,8 @@ header:
 
 ## Seminarios y congresos
 
+- Behfar, F.; Miralles-Jori, R.; Pérez-Albert, Y. (mayo, 2026). __Urban Green Space Satisfaction in an Extreme Industrial City: Evidence from Coastal Park, Asaluyeh, Iran)__. Urban Green Space Satisfaction in an Extreme Industrial City: Evidence from Coastal Park, Asaluyeh, Iran. [Poster](https://sciforum.net/paper/view/31000).
+
 - Bustamante Picón, E.; Cuesta Martínez, M. R.; Raventós Torner, R. D.; Alberich González, J.; Pérez-Albert, Y. (octubre, 2024). __Distribución y prescripción de activos de salud para personas mayores en Tarragona (España)__. XVIII Colóqio Ibérico de Geografía _Desafios societais: A perspetiva da geografia_. Universidade de Coimbra, Coimbra, Portugal, pp. 144 - 145. [Libro de resúmenes](https://cig2024.weebly.com/uploads/1/4/8/6/148606510/livro_de_resumos_cig_2024_3.pdf).
 
 - Bustamante Picón, E.; Alberich González, J.; Pérez-Albert, Y. (2024, octubre). __Calidad de los parques urbanos según sus dimensiones. Un caso aplicado a la ciudad de Tarragona (España)__. _VIII CONGRESO INTERNACIONAL ISUF-H Formas urbanas diversas para espacios en recomposición_. Universitat Politècnica de València, Valencia, España. [Libro de actas](https://www.isufhvalencia2024.upv.es/libro-de-actas/).
