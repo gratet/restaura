@@ -35,6 +35,10 @@ header:
 
 ## Artículos
 
+Gheitasi, M., Serrano Giné, D., & Pérez Albert, Y. (2026). __Public risk perceptions and urban greenery: a public participation GIS approach in the petrochemical clusters of Camp de Tarragona__. *GeoJournal*, 91(4), 109. [https://doi.org/10.1007/s10708-026-11661-0](https://doi.org/10.1007/s10708-026-11661-0).
+
+Quintero-Sandrea, C. A., Pérez-Albert, M. Y., & Frediani-Sarfati , A. (2026). __Transgresiones sonoras en un parque urbano. Caso de estudio: Parque de la Torre d’en Dolça en el área metropolitana de Tarragona-España__. *Ciudad Y Territorio Estudios Territoriales*, 58(228), 786–803. [https://doi.org/10.37230/CyTET.2026.228.13](https://doi.org/10.37230/CyTET.2026.228.13).
+
 - Magaña, E. B., Oliva, R., Huertas, S., de Solà-Morales, P., Ventura, O., Steegman, D., & Pérez-Albert, M. Y. (2026). __Graphic landscapes of care: Speculative design for healthier public spaces in Tarragona__. *grafica*, 01-13. [https://doi.org/10.5565/rev/grafica.450](https://doi.org/10.5565/rev/grafica.450).
 
 - Gheitasi, M., Pérez Albert, Y., & Serrano Giné, D. (2026). __RESTAURA project: Using public participation GIS to explore technological risk, landscape, and health perceptions in Camp de Tarragona__. *MethodsX*, 16, 103904. [https://doi.org/10.1016/j.mex.2026.103904](https://doi.org/10.1016/j.mex.2026.103904).
