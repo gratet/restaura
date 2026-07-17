@@ -217,6 +217,8 @@ Ver programa [aquí](https://rovira-my.sharepoint.com/:b:/g/personal/restaura_pr
 
 ## Otros
 
+- Gheitasi, M. (2026). __Vivir con riesgo industrial: cómo los complejos petroquímicos moldean la vida urbana__. *The Conversation*. Versión digital [aquí](https://theconversation.com/vivir-con-riesgo-industrial-como-los-complejos-petroquimicos-moldean-la-vida-urbana-285069)
+
 - Camacho Lorenzo, S. (2023). __Calidad de vida, justicia ambiental y residuos urbanos__. Charla brindada a los estudiantes del curso de Geografía Humana de la Licienciatura en Geografía de la Universidad de la República. Montevideo, Uruguay. [Foto 1](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EXXux5OwPQJAp3W9KAWB-q4BEKviYq3qEePkTLjgA_o-eg?e=jbrNUG), [Foto 2](https://rovira-my.sharepoint.com/:i:/g/personal/restaura_project_epp_urv_cat/EZYyyqIaqklBvypb52swemkB-H9ZivjPjgEXbcW7-tY8Bw?e=MGMr3R).
 
 - Camacho Lorenzo, S. (2023, noviembre). __Perspectivas para la investigación en equidad ambiental urbana en Uruguay__. VII Jornadas de Cartografía / VI Jornadas de Geofísica / IV Jornadas de Geografía / I Jornadas de Historia. Instituto Panamericano de Geografía e Historia, Sección Nacional de la República Oriental del Uruguay. Montevideo, Uruguay.
